@@ -92,7 +92,7 @@ This reflects **strong operational consistency**, with minimal disruption from a
 
 ### 2️⃣ Are there any patterns or risks in employee absenteeism?
 **Answer:**  
-Yes — about **25% of employees (5 out of 20)** show **chronic absenteeism**, missing **15–20 days annually**.  
+Yes — about **25% of employees** show **chronic absenteeism**, missing **15–20 days annually**.  
 This subgroup contributes **over 60% of all absences**, suggesting a **targeted attendance intervention** could significantly improve overall presence.
 
 ---
